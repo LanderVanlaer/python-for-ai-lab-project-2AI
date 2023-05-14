@@ -1,65 +1,65 @@
 ,neighbourhood
-I Centro Storico,14874
+I Centro Storico,14869
 Sydney,8074
-Copacabana,7712
-Cuauhtemoc,7626
-Buttes-Montmartre,7237
-Beyoglu,6674
-Popincourt,6206
-Vaugirard,4826
+Copacabana,7708
+Cuauhtemoc,7623
+Buttes-Montmartre,7235
+Beyoglu,6673
+Popincourt,6204
+Vaugirard,4815
 Waverley,4737
-Enclos-St-Laurent,4628
-Batignolles-Monceau,4330
-Menilmontant,3758
+Enclos-St-Laurent,4622
+Batignolles-Monceau,4327
+Menilmontant,3757
 Buttes-Chaumont,3728
 Sisli,3522
-Fatih,3326
+Fatih,3325
 Ward 115,3293
-Miguel Hidalgo,3288
-Passy,3215
-Opera,3157
-Benito Juarez,3133
+Miguel Hidalgo,3287
+Passy,3213
+Opera,3153
+Benito Juarez,3132
 Randwick,3045
 Yau Tsim Mong,3038
 Temple,2943
-Williamsburg,2733
-Barra da Tijuca,2724
+Williamsburg,2731
+Barra da Tijuca,2723
 Bedford-Stuyvesant,2711
-Reuilly,2654
+Reuilly,2652
 Ipanema,2572
 Ward 54,2552
-Observatoire,2485
-Vadhana,2455
+Observatoire,2482
+Vadhana,2454
 Khlong Toei,2376
 Gobelins,2278
 Kadikoy,2260
-Bourse,2188
-Pantheon,2140
+Bourse,2186
+Pantheon,2135
 VII San Giovanni/Cinecitta,2079
-Luxembourg,1998
+Luxembourg,1996
 II Parioli/Nomentano,1991
 Hotel-de-Ville,1972
 Harlem,1972
-Palais-Bourbon,1771
-Elysee,1768
+Palais-Bourbon,1764
+Elysee,1761
 Warringah,1705
 XIII Aurelia,1697
 Bushwick,1678
 Coyoacan,1675
 Besiktas,1632
 Manly,1631
-Hell's Kitchen,1506
+Hell's Kitchen,1503
 Huai Khwang,1500
 Upper West Side,1454
-Midtown,1451
+Midtown,1444
 Wan Chai,1438
-Louvre,1408
+Louvre,1405
 Woollahra,1382
 Ratchathewi,1371
 Upper East Side,1342
 Jacarepagua,1335
-XII Monte Verde,1323
-East Village,1314
+XII Monte Verde,1322
+East Village,1313
 Ward 77,1227
 Botafogo,1222
 North Sydney,1188
@@ -72,12 +72,12 @@ V Prenestino/Centocelle,1087
 Bang Rak,1079
 Ward 23,1056
 Ward 74,981
-Alvaro Obregon,977
+Alvaro Obregon,976
 Ward 64,944
 Central & Western,930
 Santa Teresa,882
 Sathon,880
-Chelsea,872
+Chelsea,871
 Rockdale,855
 Tlalpan,841
 Ward 61,824
@@ -85,11 +85,11 @@ Leichhardt,817
 Greenpoint,807
 VIII Appia Antica,804
 Phra Nakhon,802
-Centro,773
+Centro,771
 East Harlem,728
 Uskudar,727
 Esenyurt,720
-Lower East Side,707
+Lower East Side,705
 Phra Khanong,696
 Astoria,663
 Kagithane,662
@@ -112,7 +112,7 @@ IV Tiburtina,532
 XI Arvalia/Portuense,531
 Ward 107,528
 Cuajimalpa de Morelos,516
-Financial District,515
+Financial District,512
 Sutherland Shire,510
 Leme,505
 XV Cassia/Flaminia,501
@@ -130,9 +130,9 @@ III Monte Sacro,426
 Hornsby,425
 Ward 69,420
 Clinton Hill,419
-Murray Hill,417
+Murray Hill,416
 Atasehir,397
-Kips Bay,392
+Kips Bay,391
 Gustavo A. Madero,386
 Maltepe,386
 Canada Bay,383
@@ -155,29 +155,29 @@ Sariyer,324
 Ward 84,323
 Ku-Ring-Gai,306
 Sunset Park,304
-Theater District,303
 Ward 71,302
-Iztapalapa,300
+Theater District,301
+Iztapalapa,299
 The Hills Shire,295
 Bakirkoy,293
 Ridgewood,291
-Ward 113,289
 Islands,289
+Ward 113,289
 Bang Sue,285
-Lane Cove,284
 Ward 4,284
+Lane Cove,284
 Basaksehir,282
-SoHo,282
+SoHo,280
 Sunnyside,279
 Blacktown,276
 Eastern,265
 Iztacalco,264
 Lagoa,262
 Thon buri,261
-Chinatown,261
 Lat Krabang,260
-Greenwich Village,259
+Chinatown,260
 Bankstown,259
+Greenwich Village,259
 Avcilar,257
 Bang Phlat,255
 Ashfield,255
@@ -313,12 +313,12 @@ Bueng Kum,65
 Gravesend,65
 St. Albans,64
 Arverne,64
-Two Bridges,64
 Bensonhurst,64
+Two Bridges,63
 Stuyvesant Town,63
-Mott Haven,62
 Brighton Beach,62
 Brownsville,62
+Mott Haven,61
 Wakefield,61
 Rosedale,60
 Corona,60
