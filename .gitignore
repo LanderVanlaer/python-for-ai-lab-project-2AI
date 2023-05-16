@@ -190,3 +190,5 @@ pyrightconfig.json
 */.virtual_documents/*
 
 data/listings.csv
+
+pickles/*.pkl
