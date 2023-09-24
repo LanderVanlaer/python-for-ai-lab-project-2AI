@@ -192,3 +192,5 @@ pyrightconfig.json
 data/listings.csv
 
 pickles/*.pkl
+pickles/*.joblib
+TensorBoardLogs/
